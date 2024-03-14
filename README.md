@@ -3,7 +3,7 @@
 
 **Gibanam**은 Minecraft: Java Edition의 한국어 번역을 Minecraft: Bedrock Edition으로 가져오기 위해 만들어진 애드온(리소스 팩)입니다. fromgate의 [번역: Minecraft(Translations for Minecraft)](https://github.com/fromgate/TranslationsForMinecraft)를 기반으로 합니다.
 
-Minecraft: Java Edition의 번역은 Crowdin에서 커뮤니티가 관리하지만 대부분의 번역은 Minecraft: Bedrock Edition의 전문 번역가의 번역보다 더 좋습니다.
+Minecraft: Java Edition의 번역은 Crowdin에서 커뮤니티가 관리하지만 대부분의 번역은 Minecraft: Bedrock Edition의 전문 번역가의 번역보다 낫습니다.
 
 
 ## 다운로드
