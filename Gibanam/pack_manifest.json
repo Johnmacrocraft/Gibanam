@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Java Edition의 한국어 번역을 Bedrock Edition에서 즐기세요!",
+        "description": "Java Edition의 한국어 번역을 Bedrock Edition에서 즐겨 보세요!",
         "name": "Gibanam",
         "uuid": "80116492-3025-4765-b539-594fe7a04969",
-        "version": [1, 21, 60],
+        "version": [1, 21, 70],
         "min_engine_version": [1, 21, 0]
     },
     "modules": [
         {
-          "description": "Java Edition의 한국어 번역을 Bedrock Edition에서 즐기세요!",
+          "description": "Java Edition의 한국어 번역을 Bedrock Edition에서 즐겨 보세요!",
           "type": "resources",
           "uuid": "08c01a80-c166-4c54-b5e7-d8cf471d3cf4",
-          "version": [1, 21, 60]
+          "version": [1, 21, 70]
         }
     ],
     "metadata": {
