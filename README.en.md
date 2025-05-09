@@ -8,7 +8,7 @@
 This project enhances translation quality by:
 
 - Adopting the Korean translations from Minecraft: Java Edition. Translations for Java Edition are managed by the community on Crowdin, but most of them are better than those done by professional translators for Bedrock Edition.
-- Completely retranslating strings to solve errors and inconsistencies of the existing translations.
+- Completely retranslating strings to correct errors and resolve inconsistencies in the existing translations.
 
 
 ## Installation
