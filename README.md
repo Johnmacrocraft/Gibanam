@@ -1,11 +1,11 @@
-[English](README.en.md)
+[English](README_EN.md)
 
 # Gibanam
 
 
 **Gibanam**은 Minecraft: Bedrock Edition의 한국어 번역을 개선하기 위해 만들어진 애드온(리소스 팩)입니다. fromgate의 [번역: Minecraft(Translations for Minecraft)](https://github.com/fromgate/TranslationsForMinecraft)를 기반으로 합니다.
 
-이 프로젝트는 다음을 통해 번역 품질을 향상합니다.
+이 프로젝트는 다음을 통해 번역 품질을 개선합니다.
 
 - Minecraft: Java Edition의 한국어 번역을 채용합니다. Java Edition의 번역은 Crowdin에서 커뮤니티가 관리하지만 대부분의 번역은 Bedrock Edition의 전문 번역가의 번역보다 낫습니다.
 - 기존 번역의 오류를 바로잡고 비일관성을 해결하기 위해 문자열을 전면적으로 다시 번역합니다.

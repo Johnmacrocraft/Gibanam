@@ -5,7 +5,7 @@
 
 **Gibanam** is an add-on (resource pack) created to improve the Korean translation of Minecraft: Bedrock Edition. It is based on fromgate's [Translations for Minecraft](https://github.com/fromgate/TranslationsForMinecraft).
 
-This project enhances translation quality by:
+This project improves translation quality by:
 
 - Adopting the Korean translations from Minecraft: Java Edition. Translations for Java Edition are managed by the community on Crowdin, but most of them are better than those done by professional translators for Bedrock Edition.
 - Completely retranslating strings to correct errors and resolve inconsistencies in the existing translations.
