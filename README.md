@@ -7,7 +7,7 @@
 
 이 프로젝트는 다음을 통해 번역 품질을 개선합니다.
 
-- Minecraft: Java Edition의 한국어 번역을 채용합니다. Java Edition의 번역은 Crowdin에서 커뮤니티가 관리하지만 대부분의 번역은 Bedrock Edition의 전문 번역가의 번역보다 낫습니다.
+- Minecraft: Java Edition의 한국어 번역을 채용합니다. Java Edition의 번역은 Crowdin에서 커뮤니티가 관리하지만 대부분의 번역은 Bedrock Edition의 번역보다 낫습니다.
 - 기존 번역의 오류를 바로잡고 비일관성을 해결하기 위해 문자열을 전면적으로 다시 번역합니다.
 
 
