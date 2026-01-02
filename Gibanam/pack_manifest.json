@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Minecraft: Java Edition의 번역을 채용하는 Minecraft: Bedrock Edition의 개선된 대체 한국어 번역",
+        "description": "Minecraft: Bedrock Edition의 개선된 대체 한국어 번역",
         "name": "Gibanam",
         "uuid": "80116492-3025-4765-b539-594fe7a04969",
-        "version": [1, 21, 120],
+        "version": [1, 21, 130],
         "min_engine_version": [1, 21, 0]
     },
     "modules": [
         {
-          "description": "Minecraft: Java Edition의 번역을 채용하는 Minecraft: Bedrock Edition의 개선된 대체 한국어 번역",
+          "description": "Minecraft: Bedrock Edition의 개선된 대체 한국어 번역",
           "type": "resources",
           "uuid": "08c01a80-c166-4c54-b5e7-d8cf471d3cf4",
-          "version": [1, 21, 120]
+          "version": [1, 21, 130]
         }
     ],
     "metadata": {
